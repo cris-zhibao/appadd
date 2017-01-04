@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "con.phonegap.zns"
+        }
+    }
+}
